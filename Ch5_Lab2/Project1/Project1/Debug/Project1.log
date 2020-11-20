@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\user\desktop\ca\ch5_lab2\project1\project1\main.c(74): warning C4474: 'printf': 傳遞給格式字串的引數太多
+  c:\users\user\desktop\ca\ch5_lab2\project1\project1\main.c(74): note: 預留位置及其參數需要 0 個 variadic 引數，但卻提供了 1 個
+  Project1.vcxproj -> C:\Users\USER\Desktop\ca\Ch5_Lab2\Project1\Debug\Project1.exe
